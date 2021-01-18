@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/GeoffTheChef/testLaunch#readme",
   "dependencies": {
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
     "jquery": "^3.5.1",
     "webpack": "^5.15.0",
     "webpack-cli": "^4.3.1"
