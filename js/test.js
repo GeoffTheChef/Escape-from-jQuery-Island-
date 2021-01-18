@@ -8,5 +8,5 @@ var settings = {
 
 $.ajax(settings).done(function(response) {
     console.log(response);
-    $("pokemonData").append("<p>" + JSON.stringify(reponse) + "</p>"); 
+    $(".pokemonData").append("<p>" + JSON.stringify(response) + "</p>"); 
 })
