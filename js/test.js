@@ -1,7 +1,7 @@
 import $ from "jquery";
 
 var settings = { 
-    "url": "https:pokeapi.co/api/v2/pokemon/bellsprout/",
+    "url": "https://pokeapi.co/api/v2/pokemon/bellsprout/",
     "method": "GET",
     "timeout": 0, 
 }; 
