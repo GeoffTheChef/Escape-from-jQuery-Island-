@@ -1,0 +1,22 @@
+{
+  "name": "testlaunch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeoffTheChef/testLaunch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeoffTheChef/testLaunch/issues"
+  },
+  "homepage": "https://github.com/GeoffTheChef/testLaunch#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
