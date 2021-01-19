@@ -28,6 +28,6 @@
     "webpack": "^5.11.1"
   },
   "build": {
-    "webpack": "--progress --watch"
+    "webpack": "--progress"
   }
 }
