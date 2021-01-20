@@ -1,5 +1,28 @@
-#testParagraph {
-font-size: 40px; 
-
-
+#gameTitle {
+font-family: 'Spectral SC', serif;
+font-size: 80px; 
 }
+
+#chapterTitleSpot{
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 36px; 
+    padding-top: 100px; 
+    
+}
+
+#storyTextSpot{
+    font-family: 'Libre Caslon Text', serif;
+    font-size: 20px; 
+    padding-top: 10px; 
+}
+
+
+#promptToContinue{
+    padding-top: 10px; 
+    font-size: 20px; 
+    font-family: 'Libre Caslon Display', serif;
+}
+
+
+
+
