@@ -1,27 +1,66 @@
-#gameTitle {
-font-family: 'Spectral SC', serif;
+
+/* title */
+
+ #title{
+   padding-top: 100px;  
+}   
+
+#titleText {
 font-size: 80px; 
+font-family: 'Spectral SC', serif;
 }
 
-#chapterTitleSpot{
-    font-family: 'Petit Formal Script', cursive;
+/* chapter */
+
+#chapter{
+    padding-top: 10px; 
+}
+
+#chapterText{
     font-size: 36px; 
-    padding-top: 100px; 
-    
+    font-family: 'Petit Formal Script', cursive;
 }
 
-#storyTextSpot{
+/* story */
+
+#story{
+    padding-top: 10px; 
+}
+
+#storyText{
     font-family: 'Libre Caslon Text', serif;
-    font-size: 20px; 
-    padding-top: 10px; 
+    font-size: 20px;  
 }
 
+/* prompt */
 
-#promptToContinue{
-    padding-top: 10px; 
+#prompt{
+    padding-top: 10px;
+}
+
+#promtText{
     font-size: 20px; 
     font-family: 'Libre Caslon Display', serif;
 }
+
+/* Buttons */
+
+.optionButton {
+margin-right: 20px; 
+font-family: 'Noto Serif JP', serif;
+font-size: 18px; 
+background: white; 
+width: 200px; 
+}
+
+.optionButton:hover{
+    background: rgb(0, 0, 0);
+    color:white;   
+}
+
+
+
+
 
 
 
