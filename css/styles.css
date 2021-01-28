@@ -43,9 +43,11 @@ font-family: 'Spectral SC', serif;
     font-family: 'Libre Caslon Display', serif;
 }
 
-/* Buttons */
+/* Option Buttons */
 
-.optionButton {
+/* Button 1 */ 
+
+#optionButton1 {
 margin-right: 20px; 
 font-family: 'Noto Serif JP', serif;
 font-size: 18px; 
@@ -53,14 +55,25 @@ background: white;
 width: 200px; 
 }
 
-.optionButton:hover{
+#optionButton1:hover{
     background: rgb(0, 0, 0);
     color:white;   
 }
 
+/* Button 2 */ 
 
-
-
+#optionButton2 {
+    margin-right: 20px; 
+    font-family: 'Noto Serif JP', serif;
+    font-size: 18px; 
+    background: white; 
+    width: 200px; 
+    }
+    
+    #optionButton2:hover{
+        background: rgb(0, 0, 0);
+        color:white;   
+    }
 
 
 
